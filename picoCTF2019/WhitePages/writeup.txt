@@ -1,0 +1,5 @@
+Read file by python and we can notice that there are only 2 kinds of char ord 8195 and ord 32
+
+This somehow make as guess about sth 'bout binary since there are only 2 options
+
+So we can try to make one of them 1 and one of them 0 and we're done.
