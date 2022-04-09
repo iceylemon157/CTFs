@@ -7,4 +7,4 @@
 # @Description : 
 """
 
-print('a' * 0x1c - len("CTFlearn{"))
+payload = 'CTFlearn{Prince_P_ince_s_Th}'
